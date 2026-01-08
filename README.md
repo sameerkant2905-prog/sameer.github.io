@@ -17,7 +17,7 @@ The project is optimized for mobile and desktop devices.
 - JavaScript
 
 ## 🔗 Live Demo
-https://sameerkant.github.io
+www.https://sameerkant.github.io.com
 
 ## 📌 Author
 Sameer
